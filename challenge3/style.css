@@ -1,15 +1,15 @@
 /* Add your code in each class */
 .container {
-  width: 400px
-  height: 300px
-  
+  width: 400px;
+  height: 300px;
+  overflow: scroll;
 }
 .head {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   background-color: white;
   color: black;
-position: sticky;
-bottom: 0%;
+  position: sticky;
+  top: 0;
 }
 
 .row {
