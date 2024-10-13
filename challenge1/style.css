@@ -5,3 +5,6 @@ body {
   font-family: "Sixtyfour Convergence", sans-serif;
   text-align: center;
 }
+p.solid {
+  border-style: solid;
+}
